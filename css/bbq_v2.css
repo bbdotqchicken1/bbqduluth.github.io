@@ -1,0 +1,20 @@
+	
+img.new_menu {
+	width:100%;
+	max-width:2300px;
+	display:block;
+}
+img.mo_menu {
+	width:100%;
+	display:none;
+}
+
+@media (max-width: 1024px) {
+	
+	img.new_menu {
+		display:none;
+	}
+	img.mo_menu {
+		display:block;
+	}
+}

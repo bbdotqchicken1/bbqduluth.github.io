@@ -1,0 +1,15 @@
+.image-wrap {
+  position: relative;
+}
+
+.image-wrap-body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+.image-wrap-body img {
+  position: relative;
+}
+
+/*# sourceMappingURL=_image-wrap.css.map */

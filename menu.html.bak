@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en" class="wide wow-animation">
+  <head>
+    <!-- Site Title-->
+    <title>MENU</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="utf-8">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Libre+Baskerville:400,700%7CMontserrat:700">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bbq.css">
+		<!--[if lt IE 10]>
+    <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <script src="js/html5shiv.min.js"></script>
+		<![endif]-->
+  </head>
+  <body>
+    <!-- Page-->
+    <div class="page menu">
+      <!-- Page Header-->
+      <header class="page-head header-bordered">
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+          <nav data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-sidebar" data-lg-layout="rd-navbar-sidebar" class="rd-navbar">
+            <div class="rd-navbar-inner">
+              <!-- RD Navbar Panel-->
+              <div class="rd-navbar-panel">
+                <!-- RD Navbar Toggle-->
+                <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
+                <!-- RD Navbar Brand--><a href="index.html" class="rd-navbar-brand"><img src="images/bbq/bbq_logo.png" ></a>
+              </div>
+              <div class="rd-navbar-aside">
+                <div data-rd-navbar-toggle=".rd-navbar-aside" class="rd-navbar-aside-toggle"><span></span></div>
+                <div class="rd-navbar-aside-content">
+                  <address class="rd-navbar-aside-contact-info rd-navbar-aside-contact-info-variant-1"><span class="icon icon-sm icon-default fa-map-marker"></span>
+                    <p><a href="https://goo.gl/maps/usMkyMDsM79EnUpU9" target="_blank">2625 Old Denton Rd., Ste 582,<br>Carrollton, TX 75007</a></p>
+                  </address>
+                  <address class="rd-navbar-aside-contact-info rd-navbar-aside-contact-info-variant-2"><span class="icon icon-sm icon-default fa-mobile-phone"></span>
+                    <p><a class="phonelink" href="tel:+14697170999">469-717-0999</a></p>
+                  </address>
+                </div>
+              </div>
+              <div class="rd-navbar-nav-wrap">
+                <!-- RD Navbar Nav-->
+                <ul class="rd-navbar-nav">
+                  <li><a href="./">Home</a></li>
+                  <li><a href="about.html">about us</a></li>
+                  <li class="active"><a href="menu.html">menu</a></li>
+                  <li><a href="http://bbdotqchicken.com/media" target="_blank">media</a></li>
+                  <li><a href="http://bbdotqchicken.com/" target="_blank">bb.q USA INC.</a></li>
+                  <li><a href="contacts.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <!-- Page Content-->
+      <main class="page-content">
+        <!-- food & drinks-->
+        <section class="section-60 section-md-top-81 section-md-bottom-40 text-center top">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12">
+                <h2>MENU</h2>
+                <hr>
+                <p>
+                 No.1 Korean Chicken and special K-Food
+                </p>
+              	<span>
+					Always happy with bb.q chicken<br>
+					we are proud of ourselves for using only the best ingredients on everything we serve
+				</span>
+                <hr>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Responsive-tabs-->
+        <section class="responsive-tabs responsive-tabs-variant-3 text-center" id="menu_tap">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12">
+                <ul class="resp-tabs-list">
+                  <li><span class="link active">FRIED WHOLE<br>CHICKEN &amp; combo</span></li>
+                  <li><span class="link">Boneless &amp;<br>wings</span></li>
+                  <li><span class="link">Lunch MENU</span></li>
+                  <li><span class="link">Munchies</span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="resp-tabs-container offset-top-62">
+            <div class="resp-tab">
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>FRIED<br>WHOLE CHICKEN</h4>
+                            
+                            <h5 class="offset-top-30">golden olive chicken</h5>
+                            <hr>
+                            <p class="pricing-box-description">Half / Whole</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_fried01.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 pull-sm-right">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>FRIED<br>WHOLE CHICKEN</h4>
+                            
+                            <h5>Secret Spicy Chicken</h5>
+                            <hr>
+                            <p class="pricing-box-description">Half / Whole</p>
+                            <h5 class="offset-top-30">Hot Spicy Chicken</h5>
+                            <hr>
+                            <p class="pricing-box-description">Half / Whole</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_fried02.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>COMBO</h4>
+                            
+                            <h5 class="offset-top-30">HALF & HALF</h5>
+                            <h5>HALF & HALF BONELESS</h5>
+
+                            <hr>
+                          </div>
+                        </div>
+                        <!--
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>wings</h4>
+                            
+                            <h5>BB WINGS</h5>
+                            <h5>HONEY GARLIC WINGS</h5>
+                            <h5>SOY GARLIC WINGS</h5>
+                            <h5>WINGS OF FIRE</h5>
+                            <h5>GANGNAM STYLE WINGS</h5>
+                            <hr>
+                            <p class="pricing-box-description">M / L</p>
+                          </div>
+                        </div>-->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_fried03.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+            </div>
+
+            <div class="resp-tab">
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5>BONELESS CHICKEN</h5>
+                            <h5 class="offset-top-20">Original Golden Olive</h5>
+                            <h5>Secret Spicy Chicken</h5>
+                            <h5>Hot Spicy Chicken</h5>
+                            <hr>
+                            <p class="pricing-box-description">M / L</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_wings01.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 pull-sm-right">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5>BONELESS CHICKEN</h5>
+                            <h5 class="offset-top-20">Gang-Jeong</h5>
+                            <h5>Honey Garlic</h5>
+                            <h5>Soy Garlic</h5>
+                            <h5>SoyCheeslingGarlic</h5>
+                            <hr>
+                            <p class="pricing-box-description">M / L</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_wings02.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5>WINGS</h5> 
+                            <h5 class="offset-top-20">BB WINGS</h5>
+                            <h5>Honey Garlic Wings</h5>
+                            <h5>Soy garlic Wings</h5>
+                            <hr>
+                            <p class="pricing-box-description">M / L</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_wings03.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 pull-sm-right">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5>WINGS</h5> 
+                            <h5 class="offset-top-20">Wings of Fire</h5>
+                            <h5>Gangnam Style Wings</h5>
+  
+                            <hr>
+                            <p class="pricing-box-description">M / L</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_wings04.jpg" alt="" width="1900" height="640"></div>
+              </section>
+            </div>
+            
+            <div class="resp-tab">
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2 menu_lunch_text">
+              	<img src="images/bbq/menu_lunch01_text.png" alt="" width="100%" class="menu_lunch01_text">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>bb.q chicken<br>MEAL</h4>
+                            <h5 class="red_text">Boneless(S) +<br>French Fries + Soda</h5>
+                            <h5>ORIGINAL GOLDEN OLIVE</h5>
+							<h5>SECRET SPICY</h5>
+							<h5>HOT SPICY</h5>
+							<h5>HONEY GARLIC</h5>
+							<h5>SOY GARLIC</h5>
+							<h5>CHEESLING</h5>
+							<h5>GANG-JEONG</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_lunch01.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 pull-sm-right">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>SANDWICH MEAL</h4>
+                            <h5 class="red_text">Fried Chicken Sandwich + French Fries + Soda</h5>
+                            <h5>ORIGINAL SANDWICH</h5>
+							<h5>SECRET SPICY SANDWICH</h5>
+							<h5>HOT SPICY SANDWICH</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_lunch02.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h4>K-FOOD</h4>
+                            <h5 class="offset-top-20">TERIYAKI CHICKEN MAYO</h5>
+							<h5>HOT SPICY CHICKEN MAYo</h5>
+							<h5>JAMAICAN CHICKEN MAYO</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_lunch03.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+            </div>
+
+            <div class="resp-tab">
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5 class="padding-b-10">FRENCH FRIES</h5>
+                            <h5 class="padding-b-10">Waffle fries</h5>
+                            <h5 class="padding-b-10">SWEET POTATO FRIES</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_munchies01.jpg" alt="" width="1900" height="640"></div>
+              </section>
+
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 pull-sm-right">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5 class="padding-b-10">CHEESE STICK</h5>
+							<h5 class="padding-b-10">COLE SLAW</h5>
+							<h5 class="padding-b-10">CORN SALAD</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_munchies02.jpg" alt="" width="1900" height="640"></div>
+              </section>
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5 class="padding-b-10">CALAMARI</h5>
+							<h5 class="padding-b-10">Takoyaki</h5>
+							<h5 class="padding-b-10">SO-TTEOK-SO-TTEOK</h5>
+							<h5 class="padding-b-10">CHICKEN SKEWER</h5>
+							<h5 class="padding-b-10">Popcorn shrimp</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_munchies03.jpg" alt="" width="1900" height="640"></div>
+              </section>
+              <section class="section-60 section-md-120 image-wrap image-wrap-variant-2">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-5 col-lg-4 pull-sm-right">
+                      <div class="block-top-level">
+                        <div class="box-bordered box-bordered-xl box-bordered-border-inset">
+                          <div class="pricing-box">
+                            <h5 class="padding-b-10">STEAMED RICE</h5>
+							<h5 class="padding-b-10">ADDITIONAL SAUCE</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="image-wrap-body"><img src="images/bbq/menu_munchies04.jpg" alt="" width="1900" height="640"></div>
+              </section>
+            </div>
+
+
+          </div>
+          <!-- 
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12 text-center">
+                <div class="section-top-40 section-bottom-81">
+                  <nav>
+                    <ul class="pagination-custom">
+                      <li class="disabled"><a href="#" aria-label="Previous" class="link"><span aria-hidden="true">prev</span></a></li>
+                      <li class="active"><a href="#" class="link">1</a></li>
+                      <li><a href="#" class="link">2</a></li>
+                      <li><a href="#" class="link">3</a></li>
+                      <li><a href="#" class="link">4</a></li>
+                      <li><a href="#" class="link">5</a></li>
+                      <li><a href="#" aria-label="Next" class="link"><span aria-hidden="true">next</span></a></li>
+                    </ul>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>-->
+        </section>
+      </main>
+      <!-- Page Footer-->
+      <footer class="page-foot">
+        <div class="container text-center text-sm-left">
+          <p class="small">Copyright &copy;&nbsp;<span id="copyright-year"></span>&nbsp;
+<br class="hidden-sm hidden-md hidden-lg">Powered by <a rel="nofollow" href="http://adgc.nyc/" target="_blank">ADGC</a>
+          </p>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Java script-->
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
